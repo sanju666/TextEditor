@@ -1,0 +1,35 @@
+.yes-bold {
+  font-weight: bold;
+}
+.yes-italic {
+  font-style: italic;
+}
+.yes-under {
+  text-decoration: underline;
+}
+.all-yellow {
+  color: #faff00;
+  border: none;
+  background-color: transparent;
+}
+
+.no-yellow {
+  color: #f1f5f9;
+  border: none;
+  background-color: transparent;
+}
+.gh {
+  background-color: #25262c;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+.container {
+  background-color: #1b1c22;
+  display: flex;
+}
+h1 {
+  color: #ffffff;
+}
